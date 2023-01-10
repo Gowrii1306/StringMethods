@@ -15,6 +15,7 @@ public class Positions {
 		char r = name2.charAt(0);
 		System.out.println(r);
 
+		System.out.println("git change 123");
 	}
 
 }
